@@ -115,3 +115,7 @@ img{
 #sec ul{
 	padding-left 20px;
 }
+
+pre {
+	color:var(--pennblue);
+  }
