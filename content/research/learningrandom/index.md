@@ -1,7 +1,6 @@
 ---
 title: "Logical Perspectives On Learning Statistical Objects" 
 date: 2025-04-01
-url: "/learningrandom/"
 coauthors:
 - Michael Benedikt
 params:

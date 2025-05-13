@@ -1,7 +1,6 @@
 ---
 title: "Combinatorial Bounds in Distal Structures" 
 date: 2023-10-13
-url: /combdistal/
 params:
     arxiv: "2104.07769"
     pdf: "combdistal.pdf"

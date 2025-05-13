@@ -4,7 +4,12 @@
 {{- end }}
 <br>
 {{- if .Params.journal }}
-{{ .Params.journal }} ({{ .Page.Date.Year }})
+{{- if .Params.doi -}}
+<a href ={{ print "doi.org" . }}>{{ .Params.journal }}</a>
+{{- else -}}
+{{ .Params.journal }}
+{{- end }}
+({{ .Page.Date.Year }})
 <br>
 {{- end }}
 <ul class="post-tags">
@@ -24,16 +29,3 @@
     <li><a href ={{ .Permalink }}>BibTeX</a></li>
     {{ end }}
 </ul>
-{{/*
-{{ with .Params.pdf }}
-    {{- partial "button" (dict "name" "pdf" "url" (print $.Permalink . )) }}
-{{ end }}
-{{ with .Params.arxiv }}
-    {{- partial "button" (dict "name" "arXiv" "url" (print "https://arxiv.org/abs/" . )) }}
-{{ end }}
-{{ with .Params.doi }}
-    {{- partial "button" (dict "name" "DOI" "url" (print "https://doi.org/" . )) }}
-{{ end }}
-{{ with .Resources.GetMatch "*.bib" }}
-    {{- partial "button" (dict "name" "BibTeX" "url" (print $.Permalink . )) }}
-{{ end }} */}}

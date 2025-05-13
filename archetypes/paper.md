@@ -1,7 +1,6 @@
 ---
 title: "Paper Title (less than 70 characters)" 
 date: {{ .Date.Format "2006-01-02" }}
-url: "/{{ .File.ContentBaseName }}/"
 params:
     arxiv: "1234567890"
     pdf: "{{ .File.ContentBaseName }}.pdf"

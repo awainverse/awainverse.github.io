@@ -1,7 +1,6 @@
 ---
 title: "Generically Stable Measures and Distal Regularity in Continuous Logic" 
 date: 2023-10-10
-url: "/measures/"
 params:
     arxiv: "2310.06787"
     pdf: "measures.pdf"

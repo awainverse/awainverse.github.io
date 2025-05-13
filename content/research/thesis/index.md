@@ -1,7 +1,6 @@
 ---
 title: "Distality in Combinatorics and Continuous Logic" 
 date: 2024-06-03
-url: "/thesis/"
 paper_type:
     - thesis
 params:

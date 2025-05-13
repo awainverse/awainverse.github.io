@@ -1,9 +1,8 @@
 ---
-title: "Papers"
+title: "Research"
 description: "Preprints and articles by Aaron Anderson."
 ---
 
-# Research
 
 I'm interested in model theory as it relates to combinatorics and other fields.
 So far, my research has primarily been about [distal structures]("http://forkinganddividing.com/#_00_16"),

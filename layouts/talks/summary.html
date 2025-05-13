@@ -1,24 +1,27 @@
-<strong><a href="{{ .Permalink }}">{{- .Title}}</a></strong>
 {{- if .Pages -}}
-    <ul>
-    {{ range .Pages }}
-      <li>
-        {{ .Render "summary" }}
-      </li>
+    <hr>
+    <strong><a href="{{ .Permalink }}">{{- .Title}}</a></strong>
+    {{ if .Page.Params.slides }}
+        {{ (print .Page.Url .Page.Params.slides) }}
+        {{ with (.Site.GetPage (print . .Page.Params.slides)) }}
+            page found
+            {{ with .Page.Resources.GetMatch "*.pdf" }}
+                [<a href ={{ print .Permalink }}>slides</a>]
+            {{ end }}
+        {{ end }} 
     {{ end }}
-  </ul>
+    {{ range $i, $e := .Pages }}
+        {{ if $i }}<li>{{ end }}
+            {{ .Render "summary" }}
+        {{ if $i }}</li>{{ end }}
+    {{ end }}
 {{- else -}}
-    {{- with .GetTerms "coauthors" }}
-        with {{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ partial "coauthor" $e }}{{ end }}
-    {{- end }}
-    <br>
-    {{ .Page.Params.Venue }} ({{ .Page.Params.Location }}. {{ .Page.Date.Format "January 2, 2006" }})
-    <ul class="post-tags">
-        {{ if .Params.pdf }}
-        <li><a href ={{ print .Permalink .Params.pdf }}>slides</a></li>
-        {{ end }}
-        {{ with .Params.link }}
-        <li><a href ={{ . }}>link</a></li>
-        {{ end }}
-    </ul>
+    <p>{{ if .Params.link }}
+        <a href="{{ .Params.link }}">{{- .Title}}</a>
+    {{ else }}
+    {{- .Title}}
+    {{ end }}</p>
+
+    {{ .Page.Params.Location }}, {{ .Page.Date.Format "January 2, 2006" }}
+    {{ with .Page.Resources.GetMatch "*.pdf" }} [<a href ={{ print .Permalink }}>slides</a>] {{ end }} 
 {{- end -}}

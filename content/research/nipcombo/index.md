@@ -1,7 +1,6 @@
 ---
 title: "NIP and Distal Metric Structures" 
 date: 2024-10-18
-url: "/nipcombo/"
 params:
     arxiv: "2310.04393"
     pdf: "nipcombo.pdf"

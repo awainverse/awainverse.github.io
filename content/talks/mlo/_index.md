@@ -1,8 +1,7 @@
 ---
-title: "Examples of Distal Metric Structures - Dual Linear Continua" 
-params:
-    papers:
-slides: rutgers
+title: "Examples of Distal Metric Structures - Metric Linear Orders" 
+papers:
+slides: asl
 ---
 
 

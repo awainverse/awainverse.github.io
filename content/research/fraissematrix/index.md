@@ -1,7 +1,6 @@
 ---
 title: "The Fraïssé Limit of Matrix Algebras with the Rank Metric" 
 date: 2017-12-12
-url: /fraissematrix/
 params:
     arxiv: "1712.04431"
     pdf: "fraissematrix.pdf"
