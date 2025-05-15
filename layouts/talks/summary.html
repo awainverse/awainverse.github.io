@@ -1,6 +1,13 @@
 {{- if .Pages -}}
     <hr>
     <strong><a href="{{ .Permalink }}">{{- .Title}}</a></strong>
+    {{ with .GetPage .Page.Params.slides }}
+        {{ with .Page.Resources.GetMatch "*.pdf" }}
+            [<a href ={{ print .Permalink }}>slides</a>]
+        {{ end }}
+    {{ end }}
+
+
     {{ range $i, $e := .Pages }}
         {{ if $i }}<li>{{ end }}
             {{ .Render "summary" }}
@@ -14,5 +21,4 @@
     {{ end }}</p>
 
     {{ .Page.Params.Location }}, {{ .Page.Date.Format "January 2, 2006" }}
-    {{ with .Page.Resources.GetMatch "*.pdf" }} [<a href ={{ print .Permalink }}>slides</a>] {{ end }} 
 {{- end -}}
