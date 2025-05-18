@@ -6,6 +6,12 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
+    --pennblue: #011F5B;
+	--pennred: #990000;
+	--pennpurple: #4A0042;
+	--pennlightblue: #82AFD3;
+	--pennwhite: #F2F2F2;
+	--pennwhiter: #F7F7F7;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);

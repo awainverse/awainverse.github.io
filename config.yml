@@ -24,6 +24,9 @@ menu:
         - name: Talks
           url: talks/
           weight: 4
+        - name: Miscellany
+          url: misc/
+          weight: 5
 
 params:
     description: "I am a Hans Rademacher Instructor at UPenn, researching model theory."
@@ -41,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about_me","research","teaching","talks"]
+    MainSections: ["about_me","research","teaching","talks","misc"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true

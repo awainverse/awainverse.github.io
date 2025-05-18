@@ -6,9 +6,7 @@ hidemeta: true
 
 ---
 
-##### Downloads
-
-- [pdf CV]({{% baseurl %}}cv.pdf)
+## [CV pdf]({{% baseurl %}}cv.pdf)
 
 ---
 
@@ -48,7 +46,7 @@ hidemeta: true
 - **(2023–2024) Dissertation Year Fellowship**
 - **(1-5/2023) [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/)**
 - **(Summer 2017) Rose Hills Foundation SURF Fellow**
-- **(2014–2016) Putnam Exam**
+- **(2014–2016) Putnam Exam**  
     Highest Score: 39, Rank 172. On Caltech Putnam Team in 2015.
 
 ---
@@ -60,8 +58,7 @@ hidemeta: true
     - Calculus (Math 1300, Math 1400)
     - Complex Analysis (Math 4100)
 
-- **(Summer 2021, 2022) Mentor, [Canada/USA Mathcamp](https://mathcamp.org/)**
-
+- **(Summer 2021, 2022) Mentor, [Canada/USA Mathcamp](https://mathcamp.org/)**  
     Taught classes at a residential summer program for high school students
 
 - **(Fall 2020) Mentor, UCLA Directed Reading Program**
