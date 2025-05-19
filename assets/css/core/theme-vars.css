@@ -35,6 +35,7 @@
     --lineclamp: 8;
     --marginleft: 26px;
     --linkcolor: var(--darkcolor);
+    --bg: var(--theme);
 }
 
 .dark {
@@ -48,12 +49,4 @@
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
     --linkcolor: var(--lightcolor);
-}
-
-.list {
-    background: var(--theme);
-}
-
-.dark.list {
-    background: var(--theme);
 }

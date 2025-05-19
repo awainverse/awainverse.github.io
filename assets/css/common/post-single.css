@@ -673,3 +673,7 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
 }
+
+.highlight pre {
+    background-color: unset !important;
+}

@@ -12,6 +12,7 @@
 
 .highlight pre.chroma code {
     padding: 8px 0;
+    background-color:blueviolet;
 }
 
 .highlight pre.chroma .line .cl,
