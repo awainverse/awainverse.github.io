@@ -33,7 +33,7 @@ params:
     author: Aaron Anderson
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: penn
     hideFooter: false
     disableThemeToggle: false
     ShowShareButtons: false
@@ -68,6 +68,8 @@ params:
               url: teaching/
             - name: Talks
               url: talks/
+            - name: Miscellany
+              url: misc/
 
     socialIcons:
         - name: CV
