@@ -37,18 +37,6 @@ hidemeta: true
 - **(2014-2018) California Institute of Technology**
 
     B.S. Mathematics
-
----
-
-## Awards and Fellowships
-
-- **(6/2024) Pacific Journal of Mathematics Dissertation Prize**
-- **(2023–2024) Dissertation Year Fellowship**
-- **(1-5/2023) [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/)**
-- **(Summer 2017) Rose Hills Foundation SURF Fellow**
-- **(2014–2016) Putnam Exam**  
-    Highest Score: 39, Rank 172. On Caltech Putnam Team in 2015.
-
 ---
 
 ## Teaching and Outreach
@@ -76,3 +64,20 @@ hidemeta: true
 - **(Fall 2017) TA for Ma/CS 6a: Discrete Math, Caltech**
 
 - **(2014–2017) Treasurer, Secretary, [Caltech Harvey Mudd Math Competition](https://www.caltechmathmeet.org/)**
+
+---
+
+## Conference Organizing
+
+- **ASL North American Meeting 2026** (on local organizing committee)
+
+---
+
+## Awards and Fellowships
+
+- **(6/2024) Pacific Journal of Mathematics Dissertation Prize**
+- **(2023–2024) Dissertation Year Fellowship**
+- **(1-5/2023) [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/)**
+- **(Summer 2017) Rose Hills Foundation SURF Fellow**
+- **(2014–2016) Putnam Exam**  
+    Highest Score: 39, Rank 172. On Caltech Putnam Team in 2015.
