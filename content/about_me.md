@@ -69,7 +69,9 @@ hidemeta: true
 
 ## Conference Organizing
 
-- **ASL North American Meeting 2026** (on local organizing committee)
+- **ASL North American Meeting 2026**
+
+    on local organizing committee
 
 ---
 
