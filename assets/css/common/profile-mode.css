@@ -29,6 +29,14 @@
     border-radius: 50%;
 }
 
+.profile hr {
+    align-self: stretch;
+    margin: 0 0;
+    height: 3px;
+    background: var(--tertiary);
+    border: 0;
+}
+
 .buttons {
     flex-wrap: wrap;
 }
