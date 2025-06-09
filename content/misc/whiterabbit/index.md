@@ -1,7 +1,10 @@
 ---
 title: "The Löwenheim-Skolem Song"
 date: 2021-08-07
-render: always
+build:
+    render: true
+    publishResources: true
+    list: never
 
 ---
 
