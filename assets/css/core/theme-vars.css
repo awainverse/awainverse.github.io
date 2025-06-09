@@ -20,8 +20,8 @@
     --tertiary: var(--pennred);
     --quaternary: var(--secondary);
     --content: rgb(30, 30, 30);
-    --headercolor: var(--pennwhite);
-    --headertextcolor: var(--pennblue);
+    --headercolor: var(--pennblue);
+    --headertextcolor: var(--pennwhite);
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: var(--pennwhite);
     --border: rgb(238, 238, 238);
@@ -46,6 +46,7 @@
     --entry: rgb(46, 46, 51);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);
+    --quaternary: var(--secondary);
     --tertiary: var(--pennred);
     --content: var(--pennwhite);
     --code-block-bg: rgb(46, 46, 51);
