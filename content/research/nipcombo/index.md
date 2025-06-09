@@ -10,14 +10,14 @@ params:
 
 ---
 
-##### Download:
+##### Download
 
 - [pdf]({{% param "pdf" %}})
 {{% arxivlink %}}
 
 ---
 
-##### Abstract:
+##### Abstract
 
 Model theory, machine learning, and combinatorics each have generalizations of VC-dimension for fuzzy and real-valued versions of set systems.
 These different dimensions define a unique notion of a VC-class for both fuzzy sets and real-valued functions.

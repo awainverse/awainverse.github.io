@@ -11,7 +11,7 @@ params:
 
 ---
 
-##### Download:
+##### Download
 
 {{% slideslink %}}
 

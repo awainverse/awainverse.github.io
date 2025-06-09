@@ -10,7 +10,7 @@ params:
 
 ---
 
-##### Download:
+##### Download
 
 - [pdf]({{% param "pdf" %}})
 {{% arxivlink %}}
@@ -18,7 +18,7 @@ params:
 
 ---
 
-##### Abstract:
+##### Abstract
 
 We realize the $\mathbb{F}_q$-algebra $M(\mathbb{F}_q)$ studied by von
 Neumann and Halperin as the Fraïssé limit of the class of

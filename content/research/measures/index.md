@@ -10,7 +10,7 @@ params:
 
 ---
 
-##### Download:
+##### Download
 
 
 {{% pdflink %}}
@@ -20,7 +20,7 @@ params:
 
 ---
 
-##### Abstract:
+##### Abstract
 
 We develop a theory of generically stable and smooth Keisler measures in NIP metric theories, generalizing the case of classical logic. Using smooth extensions, we verify that fundamental properties of (Borel)-definable measures and the Morley product hold in the NIP metric setting. With these results, we prove that as in discrete logic, generic stability can be defined equivalently through definability properties, statistical properties, or behavior under the Morley product. We also examine weakly orthogonal Keisler measures, characterizing weak orthogonality in terms of various analytic regularity properties.
 

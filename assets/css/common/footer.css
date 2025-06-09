@@ -1,7 +1,7 @@
 .footer,
 .top-link {
     font-size: var(--footersize);
-    color: var(--secondary);
+    color: var(--headertextcolor);
 }
 
 .footer {
@@ -9,7 +9,8 @@
     padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
     text-align: center;
     line-height: 20px;
-    background: var(--code-bg);
+    background: var(--headercolor);
+    color: var(--headertextcolor);
 }
 
 .footer span {
@@ -22,11 +23,11 @@
 }
 
 .footer a {
-    color: var(--secondary);
+    color: var(--headertextcolor);
 }
 
 .footer a:hover {
-    border-bottom: 2px solid var(--darkcolor);
+    border-bottom: 2px solid var(--headertextcolor);
 }
 
 .top-link {
@@ -50,7 +51,7 @@
 
 .footer a:hover,
 .top-link:hover {
-    color: var(--secondary);
+    color: var(--headertextcolor);
 }
 
 .top-link:focus,

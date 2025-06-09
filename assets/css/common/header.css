@@ -5,11 +5,12 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
-    background: var(--code-bg);
+    background: var(--headercolor);
 }
 
 .nav a {
     display: block;
+    color: var(--headertextcolor);
 }
 
 .logo,
@@ -39,6 +40,7 @@
 button#theme-toggle {
     font-size: 20px;
     margin: auto 4px;
+    color: var(--headertextcolor);
 }
 
 body.dark #moon {
@@ -67,7 +69,7 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    border-bottom: 2px solid var(--darkcolor);
+    border-bottom: 2px solid var(--headertextcolor);
 }
 
 .lang-switch li,

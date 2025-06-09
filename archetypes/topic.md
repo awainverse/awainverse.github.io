@@ -6,5 +6,5 @@ papers:
 
 {{% relevantpapers %}}
 
-##### Abstract:
+##### Abstract
 

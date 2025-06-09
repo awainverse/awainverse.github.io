@@ -9,5 +9,5 @@ slides: umd
 
 {{% relevantpapers %}}
 
-##### Abstract:
+##### Abstract
 

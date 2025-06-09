@@ -9,7 +9,7 @@ link: https://nemtd.wescreates.wesleyan.edu/index.html
 
 ---
 
-##### Download:
+##### Download
 
 {{% slideslink %}}
 

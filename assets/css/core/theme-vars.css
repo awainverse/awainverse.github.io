@@ -12,18 +12,21 @@
 	--pennlightblue: #82AFD3;
 	--pennwhite: #F2F2F2;
 	--pennwhiter: #F7F7F7;
+    --pennyellow: #F2C100;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
+    --primary: var(--pennblue);
     --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
+    --tertiary: var(--pennred);
+    --quaternary: var(--secondary);
     --content: rgb(30, 30, 30);
+    --headercolor: var(--pennwhite);
+    --headertextcolor: var(--pennblue);
     --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
+    --code-bg: var(--pennwhite);
     --border: rgb(238, 238, 238);
-    --darkcolor: #6a7ba2;
-    --lightcolor: #cbd1de;
+    --darkcolor: var(--pennblue);
+    --lightcolor: var(--pennlightblue);
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -39,12 +42,12 @@
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
+    --theme: var(--pennblue);
     --entry: rgb(46, 46, 51);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
+    --tertiary: var(--pennred);
+    --content: var(--pennwhite);
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);

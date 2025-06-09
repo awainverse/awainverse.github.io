@@ -57,14 +57,14 @@
     font-size: 15px;    
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
 }
 
 .post-content h5 {
     font-size: 14px;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
 }
 
 .post-content h6 {
@@ -153,7 +153,7 @@
     font-size: 14px;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
     border-bottom: 2px solid var(--tertiary);
 }
 
@@ -228,7 +228,7 @@
 
 .post-content hr {
     margin: 30px 0;
-    height: 2px;
+    height: 3px;
     background: var(--tertiary);
     border: 0;
 }
@@ -294,14 +294,14 @@
     font-size: 15px;    
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
 }
 
 .list-content h5 {
     font-size: 14px;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
 }
 
 .list-content h6 {
@@ -385,7 +385,7 @@
     font-size: 14px;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: var(--quaternary);
     border-bottom: 2px solid var(--tertiary);
 }
 
@@ -460,7 +460,7 @@
 
 .list-content hr {
     margin: 30px 0;
-    height: 2px;
+    height: 3px;
     background: var(--tertiary);
     border: 0;
 }

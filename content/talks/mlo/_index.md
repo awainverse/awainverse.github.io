@@ -10,7 +10,7 @@ slides: asl
 
 ---
 
-##### Abstract:
+##### Abstract
 
 We identify several examples of distal metric structures and examine several consequences of distality, such as the existence of distal cell decompositions, in each. These results include joint work with Itaï Ben Yaacov and with Diego Bejarano.
 

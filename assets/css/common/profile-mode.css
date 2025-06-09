@@ -34,11 +34,15 @@
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--code-bg);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
     padding: 6px;
     transition: transform 0.1s;
+}
+
+.button a {
+    color: var(--secondary);
 }
 
 .button-inner {

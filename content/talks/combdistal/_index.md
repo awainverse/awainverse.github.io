@@ -7,4 +7,4 @@ slides: purdue
 
 {{% relevantpapers %}}
 
-##### Abstract:
+##### Abstract

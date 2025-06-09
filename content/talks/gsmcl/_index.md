@@ -7,5 +7,5 @@ slides: beijing
 
 {{% relevantpapers %}}
 
-##### Abstract:
+##### Abstract
 

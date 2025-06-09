@@ -33,9 +33,9 @@ params:
     author: Aaron Anderson
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: penn
+    defaultTheme: light
     hideFooter: false
-    disableThemeToggle: false
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
