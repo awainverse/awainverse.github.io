@@ -42,7 +42,7 @@
 }
 
 .button {
-    background: var(--code-bg);
+    background: var(--buttonoff);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
     padding: 6px;
@@ -50,7 +50,7 @@
 }
 
 .button a {
-    color: var(--secondary);
+    color: var(--buttontextoff);
 }
 
 .button-inner {
@@ -58,5 +58,6 @@
 }
 
 .button:hover {
-    background: var(--lightcolor);
+    background: var(--buttonon);
+    color: var(--buttontexton);
 }

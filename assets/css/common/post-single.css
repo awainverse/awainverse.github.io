@@ -76,6 +76,7 @@
 .post-meta a,
 .toc a:hover {
     color: var(--linkcolor); 
+    box-shadow: 0 1px;
 }
 
 .post-content a code {
@@ -311,8 +312,10 @@
 
 .list-content a,
 .post-meta a,
-.toc a:hover {
+.toc a:hover,
+.profile span a {
     color: var(--linkcolor); 
+    box-shadow: 0 1px;
 }
 
 .list-content a code {
@@ -344,6 +347,10 @@
 
 .list-content li p {
     margin-bottom: 0;
+}
+
+.list-content li::marker {
+    color: var(--tertiary);
 }
 
 .list-content dl {
@@ -569,25 +576,28 @@
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
-    background: var(--code-bg);
+    background: var(--buttonoff);
 }
 
 .post-tags a {
     display: block;
-    padding: 0 10px;
-    color: var(--secondary);
+    padding: 0 8px;
+    color: var(--buttontextoff);
     font-size: 16px;
-    line-height: 32px;
-    background: var(--code-bg);
+    line-height: 28px;
+    background: var(--buttonoff);
     box-shadow: none;
+    border: 2px solid var(--buttonborderoff);
 }
 
 .post-tags a:hover {
-    background: var(--lightcolor);
+    background: var(--buttonon);
+    color: var(--buttontexton);
+    border: 2px solid var(--buttonborderon);
 }
 
 .paginav a:hover {
-    background: var(--lightcolor);
+    background: var(--buttonon);
 }
 
 .share-buttons {
