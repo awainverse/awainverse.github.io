@@ -6,6 +6,8 @@ hidemeta: true
 
 ---
 
+---
+
 - I am a contributor to [mathlib](https://leanprover-community.github.io/), the main repository of math formalized in the Lean theorem prover. My contributions are visible on [github](https://github.com/awainverse).
 - In summers 2011-2014, I attended [Canada/USA Mathcamp](https://www.mathcamp.org/). I recommend it most strongly for high-schoolers interested in math.
 - As an undergrad, I helped organize the [Caltech Harvey Mudd Math Competition](http://chmmc.caltech.edu/), a one-day, on-site math competition for high school students.
