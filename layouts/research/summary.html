@@ -5,7 +5,7 @@
 <br>
 {{- if .Params.journal }}
 {{- if .Params.doi -}}
-<a href ={{ print "doi.org" . }}>{{ .Params.journal }}</a>
+<a href ={{ print "https://doi.org/" .Params.doi }}>{{ .Params.journal }}</a>
 {{- else -}}
 {{ .Params.journal }}
 {{- end }}
@@ -20,7 +20,7 @@
     <li><a href ={{ print "https://arxiv.org/abs/" . }}>arXiv</a></li>
     {{ end }}
     {{ with .Params.doi }}
-    <li><a href ={{ print "doi.org" . }}>DOI</a></li>
+    <li><a href ={{ print "https://doi.org/" . }}>DOI</a></li>
     {{ end }}
     {{ with .Params.link }}
     <li><a href ={{ . }}>link</a></li>

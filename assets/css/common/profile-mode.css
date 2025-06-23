@@ -17,9 +17,9 @@
     gap: 10px;
 }
 
-.profile span a {
+/* .profile span a {
     color : var(--darkcolor);
-}
+} */
 
 .profile .profile_inner h1 {
     font-size: 40px;

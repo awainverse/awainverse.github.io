@@ -687,3 +687,12 @@ a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
 .highlight pre {
     background-color: unset !important;
 }
+
+.post-content .border-box {
+    margin: auto 4px;
+    padding: 4px 6px;
+    line-height: var(--lineheight);
+    background: var(--code-bg);
+    border-radius: 10px;
+    border: 4px solid var(--tertiary);
+}
