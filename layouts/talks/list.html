@@ -45,9 +45,19 @@
 
 {{- $term := .Data.Term }}
 <div class="list-content">
-{{- range $index, $page := $paginator.Pages }}
-  {{ .Render "summary" }}
-{{- end }}
+{{- if (eq .Title "Talks") -}}
+  {{- range $index, $page := $paginator.Pages }}
+    {{ .Render "summary" }}
+  {{- end }}
+{{- else -}}
+  <ul>
+    {{- range $index, $page := $paginator.Pages }}
+      <li>
+        {{ .Render "summary" }}
+      </li>
+    {{- end }}
+  </ul>
+{{- end -}}
 </div>
 
 {{- if gt $paginator.TotalPages 1 }}
