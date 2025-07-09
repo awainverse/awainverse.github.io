@@ -90,7 +90,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Aaron Anderson"
-      #icon: favicon.ico
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
