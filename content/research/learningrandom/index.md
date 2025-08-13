@@ -29,6 +29,6 @@ We consider the relationship between learnability of a "base class" of functions
 
 ##### Citation
 
-{{% param "author" %}}. {{% year %}}. "{{% param "title" %}}." arXiv preprint, https://arxiv.org/abs/{{% param "arxiv" %}}.
+{{% arxivcitation %}}.
 
 {{% bibtex %}}
