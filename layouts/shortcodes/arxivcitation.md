@@ -1,0 +1,1 @@
+{{ partial "authors.html" .Page }}. {{ .Page.Date.Year }}. "{{ .Page.Param "title" }}." arXiv preprint, https://arxiv.org/abs/{{ .Page.Param "arxiv" }}.

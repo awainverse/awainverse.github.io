@@ -34,7 +34,7 @@ hidemeta: true
 
     [Chateaubriand Fellow](https://chateaubriand-fellowship.org/)
 
-    Mentor: [Itaï Ben Yaacov](https://math.univ-lyon1.fr/~begnac/)
+    Mentor: {{% coauthorfromname name="itaï ben yaacov" %}}
 
 - **(2014-2018) California Institute of Technology**
 

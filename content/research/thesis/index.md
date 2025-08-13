@@ -1,13 +1,11 @@
 ---
 title: "Distality in Combinatorics and Continuous Logic" 
 date: 2024-06-03
-paper_type:
-    - thesis
 params:
     pdf: "thesis.pdf"
     link: "https://escholarship.org/uc/item/4qg9h3zx"
-journal: Ph.D. Thesis, UCLA
-
+    journal: Ph.D. Thesis, UCLA
+    paper_type: thesis
 ---
 
 ---

@@ -1,15 +1,11 @@
 ---
 title: "Examples of Distal Metric Structures - Dual Linear Continua" 
-params:
-    papers:
+papers:
+- distalexamples
 slides: rutgers
 ---
 
-
 {{% relevantpapers %}}
-
-
----
 
 ##### Abstract
 

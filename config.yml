@@ -8,7 +8,6 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
     coauthor: coauthors
-    paper_type: paper_types
 
 menu:
     main:
@@ -82,7 +81,8 @@ params:
           url: https://scholar.google.com/citations?user=IMoj89EAAAAJ
         - name: GitHub
           url: https://github.com/awainverse
-
+        - name: arXiv
+          url: https://arxiv.org/a/anderson_a_3.html
     assets:
         disableScrollBarStyle: true
     cover:

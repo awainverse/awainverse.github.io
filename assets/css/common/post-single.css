@@ -98,7 +98,9 @@
 }
 
 .post-content ol,
-.post-content ul {
+.post-content ul,
+.list-content ol,
+.list-content ul {
     padding-inline-start: 20px;
     margin-left: var(--marginleft); 
 }
@@ -566,6 +568,11 @@
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+}
+
+.list-content .post-tags {
+    padding-inline-start: 0px;
+    margin-left: var(--marginleft); 
 }
 
 .post-tags li {

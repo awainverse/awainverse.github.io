@@ -6,7 +6,7 @@ coauthors:
 params:
     arxiv: "2504.00847"
     pdf: "learningrandom.pdf"
-
+    paper_type: submitted
 ---
 
 ---

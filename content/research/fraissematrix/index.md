@@ -5,7 +5,7 @@ params:
     arxiv: "1712.04431"
     pdf: "fraissematrix.pdf"
     slides: "surf_slides.pdf"
-
+    paper_type: submitted
 ---
 
 ---

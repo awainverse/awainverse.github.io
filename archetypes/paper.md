@@ -2,12 +2,12 @@
 title: "Paper Title (less than 70 characters)" 
 date: {{ .Date.Format "2006-01-02" }}
 params:
-    arxiv: "1234567890"
+    arxiv:
     pdf: "{{ .File.ContentBaseName }}.pdf"
     slides: "slides.pdf"
     bib: "{{ .File.ContentBaseName }}.bib"
-    journal: "Journal Name"
-    doi: "1234567890"
+    journal:
+    doi:
 
 ---
 

@@ -7,7 +7,7 @@ params:
     slides: "GSCL.pdf"
     journal: "Journal of Symbolic Logic"
     doi: "10.1017/jsl.2023.74"
-
+    paper_type: publication
 ---
 
 ---

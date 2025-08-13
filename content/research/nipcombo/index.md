@@ -5,7 +5,7 @@ params:
     arxiv: "2310.04393"
     pdf: "nipcombo.pdf"
     journal: "Israel Journal of Mathematics"
-
+    paper_type: publication
 ---
 
 ---

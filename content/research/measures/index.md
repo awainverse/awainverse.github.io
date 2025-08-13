@@ -4,8 +4,7 @@ date: 2023-10-10
 params:
     arxiv: "2310.06787"
     pdf: "measures.pdf"
-    slides: "slides.pdf"
-
+    paper_type: submitted
 ---
 
 ---
@@ -16,7 +15,6 @@ params:
 {{% pdflink %}}
 {{% arxivlink %}}
 {{% doilink %}}
-- [slides]({{% param "slides" %}})
 
 ---
 
