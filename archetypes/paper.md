@@ -4,7 +4,6 @@ date: {{ .Date.Format "2006-01-02" }}
 params:
     arxiv:
     pdf: "{{ .File.ContentBaseName }}.pdf"
-    slides: "slides.pdf"
     bib: "{{ .File.ContentBaseName }}.bib"
     journal:
     doi:
@@ -15,11 +14,9 @@ params:
 
 ##### Download
 
-
-- [pdf]({{% param "pdf" %}})
+{{% pdflink %}}
 {{% arxivlink %}}
 {{% doilink %}}
-- [slides]({{% param "slides" %}})
 
 ---
 
@@ -30,5 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 ##### Citation
+
+{{% arxivcitation %}}
 
 {{% bibtex %}}

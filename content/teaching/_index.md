@@ -8,8 +8,6 @@ hidemeta: true
 
 ## Upcoming Teaching
 
-This summer, I will be teaching a 1-week course on model theory at [Canada/USA Mathcamp](https://mathcamp.org).
-
 This fall, I will be teaching Math 1400 and Math 4100 at UPenn.
 
 - For information about 1400, see [here.](https://www.math.upenn.edu/undergraduate/courses/calculus-penn)
@@ -48,6 +46,20 @@ At Caltech, I was a teaching assistant for Ma6a: Discrete Math.
 
 ## Outreach
 
+### Canada/USA Mathcamp
+
+I have taught for several summers at [Canada/USA Mathcamp](https://mathcamp.org), which I also attended in high school.
+Here are problems and notes for some of the classes I taught:
+
+- Incidence Combinatorics [[problems](mathcamp/incidence_combinatorics.pdf)]
+- Model Theory [[notes](mathcamp/model_theory.pdf)]
+- Surreal Numbers [[problems](mathcamp/surreal_numbers.pdf)] [[impartial games](mathcamp/Impartial%20Games.pdf)] [[partizan games](mathcamp/Partizan%20Games.pdf)]
+- Sperner's Lemma and Brouwer's Fixed Point Theorem [[problems](mathcamp/spernerbrouwer.pdf)]
+- Theorem Proving in Lean (cowritten with [Apurva Nakade](https://apurvanakade.github.io/) and [Jalex Stark](https://www.jalexstark.com/))[[link](https://awainverse.github.io/mc2022-Lean/)]
+- VC-Dimension [[notes](mathcamp/vc.pdf)]
+
+Email me for solutions.
+
 ### Olga Radko Math Circle
 
 Most Sundays during my time at UCLA, I taught high school students at the [Olga Radko Math Circle](https://www.math.ucla.edu/~radko/circles/), which I also attended in middle and high school. Here are some of the lessons I wrote:
@@ -60,18 +72,5 @@ Most Sundays during my time at UCLA, I taught high school students at the [Olga 
 - Game Theory [[pdf](ormc/gametheory.pdf)]
 - Cryptography [[pdf](ormc/crypto.pdf)]
 - Dynamical Systems (mostly on the Logistic map and the Mandelbrot set) [[pdf](ormc/dynamics.pdf)]
-
-Email me for solutions.
-
-### Canada/USA Mathcamp
-
-I have taught for several summers at [Canada/USA Mathcamp](https://mathcamp.org), which I also attended in high school. Here are problems and notes for some of the classes I taught:
-
-- Incidence Combinatorics [[problems](mathcamp/incidence_combinatorics.pdf)]
-- Model Theory [[notes](mathcamp/model_theory.pdf)]
-- Surreal Numbers [[problems](mathcamp/surreal_numbers.pdf)] [[impartial games](mathcamp/Impartial%20Games.pdf)] [[partizan games](mathcamp/Partizan%20Games.pdf)]
-- Sperner's Lemma and Brouwer's Fixed Point Theorem [[problems](mathcamp/spernerbrouwer.pdf)]
-- Theorem Proving in Lean (cowritten with [Apurva Nakade](https://apurvanakade.github.io/) and [Jalex Stark](https://www.jalexstark.com/))[[link](https://awainverse.github.io/mc2022-Lean/)]
-- VC-Dimension [[notes](mathcamp/vc.pdf)]
 
 Email me for solutions.

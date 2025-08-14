@@ -14,7 +14,7 @@ params:
 
 ##### Download
 
-- [pdf]({{% param "pdf" %}})
+{{% pdflink %}}
 {{% arxivlink %}}
 {{% doilink %}}
 - [slides]({{% param "slides" %}})

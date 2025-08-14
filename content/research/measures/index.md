@@ -28,6 +28,6 @@ We then examine Keisler measures in distal metric theories, proving that as in d
 
 ##### Citation
 
-{{% param "author" %}}. {{% year %}}. "{{% param "title" %}}." arXiv preprint, https://arxiv.org/abs/{{% param "arxiv" %}}.
+{{% arxivcitation %}}
 
 {{% bibtex %}}
