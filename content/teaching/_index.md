@@ -44,16 +44,6 @@ At Caltech, I was a teaching assistant for Ma6a: Discrete Math.
 
 ---
 
-## Advising
-
-I have advised a number of students through mathematics formalization projects in Lean.
-These include a Directed Reading Project with Norman Chen at UCLA, and a number of students at Canada/USA Mathcamp.
-Two of these projects that ended up pushing code to mathlib include [Gabin Kolly's master's thesis](https://florisvandoorn.com/theses/GabinKolly.pdf)
-and
-[this Mathcamp project by Alex Zhao](https://leanprover-community.github.io/mathlib4_docs/Mathlib/NumberTheory/FrobeniusNumber.html).
-
----
-
 ## Outreach
 
 ### Canada/USA Mathcamp
@@ -84,3 +74,13 @@ Most Sundays during my time at UCLA, I taught high school students at the [Olga 
 - Dynamical Systems (mostly on the Logistic map and the Mandelbrot set) [[pdf](ormc/dynamics.pdf)]
 
 Email me for solutions.
+
+---
+
+## Advising
+
+I have advised a number of students through mathematics formalization projects in Lean.
+These include a Directed Reading Project with Norman Chen at UCLA, and a number of students at Canada/USA Mathcamp.
+Two of these projects that ended up pushing code to mathlib include [Gabin Kolly's master's thesis](https://florisvandoorn.com/theses/GabinKolly.pdf)
+and
+[this Mathcamp project by Alex Zhao](https://leanprover-community.github.io/mathlib4_docs/Mathlib/NumberTheory/FrobeniusNumber.html).
