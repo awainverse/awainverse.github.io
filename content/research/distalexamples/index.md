@@ -6,7 +6,7 @@ coauthors:
 params:
     arxiv: 2508.09073
     pdf: distalexamples.pdf
-    paper_type: preprint
+    paper_type: submitted
 ---
 
 ---
