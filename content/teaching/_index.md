@@ -6,12 +6,12 @@ hidemeta: true
 
 ---
 
-## Upcoming Teaching
+## Current Teaching
 
-This fall, I will be teaching Math 1400 and Math 4100 at UPenn.
+This fall, I am teaching Math 1400 and Math 4100 at UPenn. The online presence of each class is on Canvas.
 
 - For information about 1400, see [here.](https://www.math.upenn.edu/undergraduate/courses/calculus-penn)
-- For information about 4100, [download the tentative syllabus.](penn/f25_4100/syllabus.pdf)
+- For information about 4100, [download the syllabus.](penn/f25_4100/syllabus.pdf)
 
 ---
 
