@@ -1,5 +1,5 @@
 ---
-title: "Examples of Distal Metric Structures - Metric Linear Orders" 
+title: "Finding Order in Metric Structures" 
 papers:
 slides: asl
 ---
@@ -12,8 +12,10 @@ slides: asl
 
 ##### Abstract
 
-We identify several examples of distal metric structures and examine several consequences of distality, such as the existence of distal cell decompositions, in each. These results include joint work with Itaï Ben Yaacov and with Diego Bejarano.
+In continuous logic, there are plenty of examples of interesting stable metric structures.
+On the other side of the SOP line, there are only a few metric structures where order is relevant, and order appears in a different way in each of them.
+In this talk, joint work with Diego Bejarano, we present a unified approach to linear and cyclic orders in continuous logic.
 
-One class of examples starts with finding a metric structure whose automorphism group is the group of increasing homeomorphisms of the unit interval. We will discuss some properties of this structure and extrapolate to other models of its theory, which we call “dual linear continua.”
-
-Another source of examples includes real closed metric valued fields. These give rise to a notion of ordered metric structure, providing a viewpoint to study o-minimality in continuous logic.
+We axiomatize these theories, and find generic completions in the ultrametric case, analogous to the complete theory DLO.
+We study some expansions of these theories, including real closed metric valued fields, from this perspective,
+and characterize which expansions of metric linear orders should be considered $o$-minimal.
