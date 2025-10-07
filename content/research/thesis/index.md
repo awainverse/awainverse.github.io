@@ -16,7 +16,7 @@ params:
 {{% pdflink %}}
 {{% arxivlink %}}
 {{% doilink %}}
-- [eScholarship link]("https://escholarship.org/uc/item/4qg9h3zx")
+- [eScholarship link](https://escholarship.org/uc/item/4qg9h3zx)
 
 ---
 
