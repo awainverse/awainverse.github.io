@@ -1,6 +1,7 @@
 ---
 title: "Finding Order in Metric Structures" 
-papers: mlo
+papers:
+- mlo
 slides: asl
 ---
 
