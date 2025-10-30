@@ -9,8 +9,6 @@ slides: asl
 {{% relevantpapers %}}
 
 
----
-
 ##### Abstract
 
 In continuous logic, there are plenty of examples of interesting stable metric structures.
