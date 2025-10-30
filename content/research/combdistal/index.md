@@ -29,6 +29,6 @@ We provide polynomial upper bounds for the minimal sizes of distal cell decompos
 
 ##### Citation
 
-{{% param "author" %}}. 2023. "{{% param "title" %}}." Accepted, Journal of Symbolic Logic.
+{{% param "author" %}}. "{{% param "title" %}}." Journal of Symbolic Logic (2023): 1-33.
 
 {{% bibtex %}}
