@@ -6,7 +6,7 @@ coauthors:
 params:
     arxiv: "2510.11857"
     pdf: "metric_linear_orders.pdf"
-    paper_type: preprint
+    paper_type: submitted
 ---
 
 ---
