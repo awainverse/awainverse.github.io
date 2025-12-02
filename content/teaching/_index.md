@@ -15,6 +15,14 @@ This fall, I am teaching Math 1400 and Math 4100 at UPenn. The online presence o
 
 ---
 
+## Upcoming Teaching
+
+This spring, I will teach Math 5710 at UPenn.
+The online presence (including course notes and any homeworks) will be on this website - check this page for future details.
+In the meantime, you can [download the tentative syllabus.](penn/s26_5710/syllabus.pdf)
+
+---
+
 ## Past University Teaching
 
 ### UPenn
