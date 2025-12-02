@@ -4,7 +4,6 @@ date: 2023-10-13
 params:
     arxiv: "2104.07769"
     pdf: "combdistal.pdf"
-    slides: "GSCL.pdf"
     journal: "Journal of Symbolic Logic"
     doi: "10.1017/jsl.2023.74"
     paper_type: publication
@@ -17,7 +16,6 @@ params:
 {{% pdflink %}}
 {{% arxivlink %}}
 {{% doilink %}}
-- [slides]({{% param "slides" %}})
 
 ---
 
