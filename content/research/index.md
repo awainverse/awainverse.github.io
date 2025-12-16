@@ -11,12 +11,14 @@ hidemeta: True
 
 ---
 ### Papers
+1. L Peng, T Qiu, **NCB**, X Bian, M Bhati, R Littlejohn, NM Kidwell, JE Subotnik, **Phase Space Electronic Structure Theory: From Diatomic Lambda-Doubling to Macroscopic Einstein-de Haas**, Submitted (2025).
+    - [arXiv](https://arxiv.org/abs/2512.13448)
+    {class="post-tags"}
 1. X Bian, T Duston, **NCB**, Z Tao, M Bhati, T Qiu, X Wu, Y Wu, JE Subotnik, **The Phase-Space Way To Electronic Structure Theory and Subsequently Chemical Dynamics**, Submitted (2025).
     - [arXiv](https://arxiv.org/abs/2506.15994)
     {class="post-tags"}
 1. T Duston, **NCB**, Z Tao, JE Subotnik, **Conical Intersections and Electronic Momentum As Viewed From Phase Space Electronic Structure Theory**, *J. Phys. Chem. Lett.* 16, 8994-9003 (2025).
     - [arXiv](https://arxiv.org/abs/2506.11963)
-    {class="post-tags"}
     - [DOI](https://doi.org/10.1021/acs.jpclett.5c01844)
     {class="post-tags"}
 
