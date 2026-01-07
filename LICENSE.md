@@ -1,3 +1,5 @@
+Website Template:
+
 MIT License
 
 Copyright (c) 2023–present Pascal Michaillat  
