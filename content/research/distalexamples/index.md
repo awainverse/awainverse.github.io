@@ -11,7 +11,7 @@ params:
 
 ---
 
-##### Download
+#### Download
 
 {{% pdflink %}}
 {{% arxivlink %}}
@@ -19,7 +19,7 @@ params:
 
 ---
 
-##### Abstract
+#### Abstract
 
 This article provides examples of distal metric structures. One source of examples are metric valued fields. By analyzing indiscernible sequences, we show that real closed metric valued fields are distal, and conclude that algebraically closed metric valued fields, while stable, have the strong Erdős-Hajnal property, which we define appropriately for metric structures.
 
@@ -27,7 +27,7 @@ We find another example in topological dynamics: we study a metric structure who
 
 ---
 
-##### Citation
+#### Citation
 
 {{% arxivcitation %}}
 

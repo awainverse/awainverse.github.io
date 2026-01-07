@@ -11,7 +11,7 @@ params:
 
 ---
 
-##### Download
+#### Download
 
 
 {{% pdflink %}}
@@ -20,7 +20,7 @@ params:
 
 ---
 
-##### Abstract
+#### Abstract
 
 In continuous logic, there are plenty of examples of interesting stable metric structures. However, on the other side of the SOP line, there are only a few metric structures where order is relevant, and orders often appear in different ways. We now present a unified approach to linear and cyclic orders in continuous logic. We axiomatize theories of metric linear and cyclic orders, and in the ultrametric case, find generic completions, analogous to the complete theory DLO.
 
@@ -28,7 +28,7 @@ We then characterize which expansions of metric linear orders should be consider
 
 ---
 
-##### Citation
+#### Citation
 
 {{% arxivcitation %}}
 

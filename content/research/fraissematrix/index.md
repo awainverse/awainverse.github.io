@@ -10,7 +10,7 @@ params:
 
 ---
 
-##### Download
+#### Download
 
 {{% pdflink %}}
 {{% arxivlink %}}
@@ -18,7 +18,7 @@ params:
 
 ---
 
-##### Abstract
+#### Abstract
 
 We realize the $\mathbb{F}_q$-algebra $M(\mathbb{F}_q)$ studied by von
 Neumann and Halperin as the Fraïssé limit of the class of
@@ -32,7 +32,7 @@ quantities involved.
 
 ---
 
-##### Citation
+#### Citation
 
 {{% param "author" %}}. {{% year %}}. "{{% param "title" %}}." arXiv preprint, https://arxiv.org/abs/{{% param "arxiv" %}}.
 

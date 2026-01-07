@@ -10,7 +10,7 @@ params:
 
 ---
 
-##### Download
+#### Download
 
 
 {{% pdflink %}}
@@ -20,7 +20,7 @@ params:
 
 ---
 
-##### Abstract
+#### Abstract
 
 A central goal of modern model theory is to classify and understand first-order structures through studying the combinatorial properties of their definable sets,
 Conversely, model-theoretic properties can shed light on the behavior of interesting families of sets, such as semialgebraic families, which happen to be definable in well-behaved structures.
@@ -41,6 +41,6 @@ including real closed metric valued fields and dual linear continua.
 
 ---
 
-##### Citation
+#### Citation
 
 {{% bibtex %}}
