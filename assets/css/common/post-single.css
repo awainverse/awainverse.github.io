@@ -632,11 +632,11 @@ h4:hover .anchor,
 h5:hover .anchor,
 h6:hover .anchor {
     display: inline-flex;
-    color: var(--darkcolor);
+    color: var(--secondary);
     margin-inline-start: 10px;
     font-weight: 700;
     user-select: none;
-    box-shadow: 0 0px 0 var(--darkcolor);
+    box-shadow: 0 0px 0 var(--secondary);
 }
 
 .paginav {

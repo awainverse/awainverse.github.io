@@ -14,6 +14,9 @@
       </span>
       {{- end }}
     </h1>
+    {{- if .Param "subtitle" }}
+      <h2>{{ .Param "subtitle" | markdownify }}</h2>
+    {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}

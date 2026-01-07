@@ -6,6 +6,7 @@ build:
     publishResources: true
     list: never
 ShowToc: true
+subtitle: LGIC 3200 / PHIL 4722 / MATH 5710 / PHIL 6722
 ---
 
 ---
