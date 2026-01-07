@@ -24,8 +24,7 @@ ShowToc: true
 
 ## Topics
 
-We will cover a variety of topics in model theory, highlighting connections to combina-
-torics and algebra. We will start with an exploration of quantiﬁer elimination in a number of
+We will cover a variety of topics in model theory, highlighting connections to combinatorics and algebra. We will start with an exploration of quantiﬁer elimination in a number of
 classic theories. We will then dive deeper into the model theory of real closed ﬁelds (such as $\mathbb{R}$)
 in particular, generalizing to o-minimal structures, covering properties such as o-minimal cell decomposition.
 There are then several topics which we can pursue, depending on time and interest, such as
@@ -35,7 +34,7 @@ There are then several topics which we can pursue, depending on time and interes
 
 ---
 
-## Sources and Books
+## Texts
 
 I will be using a variety of sources for this class, so the authoritative source for lecture materials will be my lecture notes, posted on this site.
 For the first part of the class, my main source will be [Marker](https://link.springer.com/book/10.1007/b98860), which should be available at that link through Penn.
