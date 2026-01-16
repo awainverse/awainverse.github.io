@@ -9,6 +9,11 @@ ShowToc: true
 subtitle: LGIC 3200 / PHIL 4722 / MATH 5710 / PHIL 6722
 ---
 
+## Notes
+
+- [PDF Notes](notes.pdf)
+
+
 ---
 
 ## [Syllabus and Logistical Information](syllabus.pdf)
@@ -20,6 +25,7 @@ subtitle: LGIC 3200 / PHIL 4722 / MATH 5710 / PHIL 6722
 - Office hours will be held two hours weekly, to be determined, and by appointment, in DRL 3N8E.
 
 - Contact me at [awanders@sas.upenn.edu](mailto:awanders@sas.upenn.edu).
+
 
 ---
 
@@ -37,7 +43,7 @@ There are then several topics which we can pursue, depending on time and interes
 
 ## Texts
 
-I will be using a variety of sources for this class, so the authoritative source for lecture materials will be my lecture notes, posted on this site.
+I will be using a variety of sources for this class, so the authoritative source for lecture materials will be my [lecture notes](notes.pdf).
 For the first part of the class, my main source will be [Marker](https://link.springer.com/book/10.1007/b98860), which should be available at that link through Penn.
 I may assign some homework problems from Marker - if you have trouble accessing it, email me.
 
