@@ -87,7 +87,7 @@ Feel free to ask me about other potential topics with connections to model theor
 
 - [Alice Medvedev, Ramin Takloo-Bighash. An invitation to model-theoretic Galois theory.](https://arxiv.org/abs/0909.4340)
 
-### Categorical Fraïssé Theory
+#### Categorical Fraïssé Theory
 
 - [Wiesław Kubiś. Fraïssé sequences: category-theoretic approach to universal homogeneous structures](https://arxiv.org/abs/0711.1683)
 
