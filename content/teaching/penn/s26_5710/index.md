@@ -67,6 +67,8 @@ Students enrolled in LGIC 3200 / PHIL 4722 will be graded on biweekly homework.
 Homeworks will be posted here, and are to be submitted on [Gradescope](https://www.gradescope.com/courses/1209753).
 The Gradescope course will require an access code, for which you can email me.
 
+- [Homework 1](hw1.pdf)
+
 ### Presentations
 
 Students enrolled in MATH 5710 / PHIL 6722 will be graded on giving a presentation.
