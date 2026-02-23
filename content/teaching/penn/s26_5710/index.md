@@ -92,7 +92,12 @@ Feel free to ask me about other potential topics with connections to model theor
 #### General O-Minimality
 
 - [Ya'acov Peterzil and Sergei Starchenko. A trichotomy theorem for o-minimal structures.](https://people.maths.ox.ac.uk/bays/ominGruppen/peterzilStarchenko-trichotomy.pdf)
+- [Patrick Speissegger. The Pfaffian closure on an o-minimal structure.](https://arxiv.org/abs/math/9710220)
+
+#### O-Minimal Complex Analysis
+
 - [Ya'acov Peterzil and Sergei Starchenko. Tame complex analysis and o-minimality.](https://math.haifa.ac.il/kobi/Icm-final.pdf)
+- [Ya'acov Peterzil and Sergei Starchenko. Complex analytic geometry and analytic-geometric categories.](https://math.haifa.ac.il/kobi/analytic.pdf)
 
 #### Algebraic Geometry and Number Theory
 
