@@ -69,6 +69,7 @@ Homeworks will be posted here, and are to be submitted on [Gradescope](https://w
 The Gradescope course will require an access code, for which you can email me.
 
 - [Homework 1](hw1.pdf)
+- [Homework 2](hw2.pdf)
 
 ### Presentations
 
