@@ -87,6 +87,12 @@ Feel free to ask me about other potential topics with connections to model theor
 - [Jacob Fox, Matthew Kwan, Hunter Spink. Geometric and o-minimal Littlewood-Offord problems.](https://arxiv.org/abs/2106.04894)
 - [Hunter Spink. Multiplicative structures and random walks in o-minimal groups.](https://arxiv.org/abs/2206.08276)
 - [József Balogh, Anton Bernshteyn, Michelle Delcourt, Asaf Ferber, Huy Tuan Pham. Sunflowers in set systems with small VC-dimension](https://arxiv.org/abs/2408.04165)
+- [Saugata Basu. Combinatorial complexity in o-minimal geometry.](https://arxiv.org/pdf/math/0612050)
+
+#### General O-Minimality
+
+- [Ya'acov Peterzil and Sergei Starchenko. A trichotomy theorem for o-minimal structures.](https://people.maths.ox.ac.uk/bays/ominGruppen/peterzilStarchenko-trichotomy.pdf)
+- [Ya'acov Peterzil and Sergei Starchenko. Tame complex analysis and o-minimality.](https://math.haifa.ac.il/kobi/Icm-final.pdf)
 
 #### Algebraic Geometry and Number Theory
 
