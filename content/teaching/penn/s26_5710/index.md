@@ -22,8 +22,8 @@ subtitle: LGIC 3200 / PHIL 4722 / MATH 5710 / PHIL 6722
 
 - This class meets Tθ 3:30-5 in [Williams](https://facilities.upenn.edu/maps/locations/williams-hall) 216.
 
-- Office hours will be held two hours weekly, and by appointment, in DRL 3N8E.
-    Currently those hours are Monday, 1-3PM.
+- Office hours will be scheduled weekly, and available by appointment, in DRL 3N8E.
+    Currently those hours are Monday, 1-2:15 PM.
 
 - Contact me at [awanders@sas.upenn.edu](mailto:awanders@sas.upenn.edu).
 
