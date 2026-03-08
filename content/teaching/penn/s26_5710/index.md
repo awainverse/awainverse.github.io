@@ -84,6 +84,7 @@ Feel free to ask me about other potential topics with connections to model theor
 
 #### Combinatorics
 
+- [Artem Chernikov, David Galvin, Sergei Starchenko. Cutting lemma and Zarankiewicz's problem in distal structures](https://arxiv.org/abs/1612.00908)
 - [Mervyn Tong. Zarankiewicz bounds from distal regularity lemma.](https://arxiv.org/abs/2410.13695)
 - [Jacob Fox, Matthew Kwan, Hunter Spink. Geometric and o-minimal Littlewood-Offord problems.](https://arxiv.org/abs/2106.04894)
 - [Hunter Spink. Multiplicative structures and random walks in o-minimal groups.](https://arxiv.org/abs/2206.08276)
@@ -115,7 +116,12 @@ Feel free to ask me about other potential topics with connections to model theor
 
 #### Categorical Fraïssé Theory
 
-- [Wiesław Kubiś. Fraïssé sequences: category-theoretic approach to universal homogeneous structures](https://arxiv.org/abs/0711.1683)
+- [Wiesław Kubiś. Fraïssé sequences: category-theoretic approach to universal homogeneous structures.](https://arxiv.org/abs/0711.1683)
+
+#### Continuous Logic
+
+- [Itaï Ben Yaacov. Fraïssé limits of metric structures.](https://math.univ-lyon1.fr/~begnac/articles/Fraisse.pdf)
+- [Itaï Ben Yaacov. Continuous and random Vapnik-Chervonenkis classes.](https://math.univ-lyon1.fr/~begnac/articles/RandomVC.pdf)
 
 ---
 
