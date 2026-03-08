@@ -90,6 +90,10 @@ Feel free to ask me about other potential topics with connections to model theor
 - [József Balogh, Anton Bernshteyn, Michelle Delcourt, Asaf Ferber, Huy Tuan Pham. Sunflowers in set systems with small VC-dimension](https://arxiv.org/abs/2408.04165)
 - [Saugata Basu. Combinatorial complexity in o-minimal geometry.](https://arxiv.org/pdf/math/0612050)
 
+#### Learning Theory
+
+- [Hunter Chase and James Freitag. Model Theory and machine learning.](https://arxiv.org/pdf/1801.06566)
+
 #### General O-Minimality
 
 - [Ya'acov Peterzil and Sergei Starchenko. A trichotomy theorem for o-minimal structures.](https://people.maths.ox.ac.uk/bays/ominGruppen/peterzilStarchenko-trichotomy.pdf)
