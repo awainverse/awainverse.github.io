@@ -82,6 +82,8 @@ Presentations can be on any relevant research paper or similar topic with instru
 Here is a preliminary list of recommended papers, which will grow, sorted by topic.
 Feel free to ask me about other potential topics with connections to model theory - I can try to find you a paper to present.
 
+Papers that are crossed out have been claimed.
+
 #### Combinatorics
 
 - [Artem Chernikov, David Galvin, Sergei Starchenko. Cutting lemma and Zarankiewicz's problem in distal structures](https://arxiv.org/abs/1612.00908)
@@ -107,16 +109,16 @@ Feel free to ask me about other potential topics with connections to model theor
 
 #### Algebraic Geometry and Number Theory
 
-- [Neer Bhardwaj and Lou van den Dries. On the Pila–Wilkie theorem.](https://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf)
+- ~~[Neer Bhardwaj and Lou van den Dries. On the Pila–Wilkie theorem.](https://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf)~~
 - [Spencer Dembner and Hunter Spink. Algebraic and o-minimal flows beyond the cocompact case.](https://arxiv.org/abs/2209.10812)
 
 #### Field Theory
 
-- [Alice Medvedev, Ramin Takloo-Bighash. An invitation to model-theoretic Galois theory.](https://arxiv.org/abs/0909.4340)
+- ~~[Alice Medvedev, Ramin Takloo-Bighash. An invitation to model-theoretic Galois theory.](https://arxiv.org/abs/0909.4340)~~
 
 #### Categorical Fraïssé Theory
 
-- [Wiesław Kubiś. Fraïssé sequences: category-theoretic approach to universal homogeneous structures.](https://arxiv.org/abs/0711.1683)
+- ~~[Wiesław Kubiś. Fraïssé sequences: category-theoretic approach to universal homogeneous structures.](https://arxiv.org/abs/0711.1683)~~
 
 #### Continuous Logic
 
@@ -129,3 +131,7 @@ Feel free to ask me about other potential topics with connections to model theor
 
 - First class: 1/15
 - No class: 2/3
+
+### Presentation Schedule
+
+- 4/28: Isaiah Hilsenrath
