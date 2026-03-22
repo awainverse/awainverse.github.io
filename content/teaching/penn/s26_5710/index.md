@@ -135,4 +135,12 @@ Papers that are crossed out have been claimed.
 
 ### Presentation Schedule
 
-- 4/28: Isaiah Hilsenrath
+| Date | Speaker | Topic |
+| --- | --- | --- |
+| 4/7 | Riley Shahar | |
+| 4/9 | Carmine Ingram | [Neer Bhardwaj and Lou van den Dries. On the Pila–Wilkie theorem.](https://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf) |
+| 4/14 | Saul Hilsenrath | [Ya'acov Peterzil and Sergei Starchenko. Tame complex analysis and o-minimality.](https://math.haifa.ac.il/kobi/Icm-final.pdf) (or similar) |
+| 4/16 | Matthew Stevens | [Jonathan Pila, Umberto Zannier. Rational points in periodic analytic sets and the Manin–Mumford conjecture.](https://ems.press/journals/rlm/articles/1747) |
+| 4/21 | Ava Mock | [Alice Medvedev, Ramin Takloo-Bighash. An invitation to model-theoretic Galois theory.](https://arxiv.org/abs/0909.4340) |
+| 4/23 | Shotaro Hiranuma | [Itaï Ben Yaacov. Fraïssé limits of metric structures.](https://math.univ-lyon1.fr/~begnac/articles/Fraisse.pdf) |
+| 4/28 | Isaiah Hilsenrath |  |
