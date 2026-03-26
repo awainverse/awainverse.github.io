@@ -123,7 +123,7 @@ Papers that are crossed out have been claimed.
 
 #### Continuous Logic
 
-- [Itaï Ben Yaacov. Fraïssé limits of metric structures.](https://math.univ-lyon1.fr/~begnac/articles/Fraisse.pdf)
+- ~~[Itaï Ben Yaacov. Fraïssé limits of metric structures.](https://math.univ-lyon1.fr/~begnac/articles/Fraisse.pdf)~~
 - [Itaï Ben Yaacov. Continuous and random Vapnik-Chervonenkis classes.](https://math.univ-lyon1.fr/~begnac/articles/RandomVC.pdf)
 
 ---
