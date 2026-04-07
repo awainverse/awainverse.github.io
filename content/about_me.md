@@ -47,6 +47,10 @@ hidemeta: true
     Instructor of record for
     - Calculus (Math 1300, Math 1400)
     - Complex Analysis (Math 4100)
+    - Logic and Computation 2 (Math 5710)
+
+- **(Summers 2024-) Veteran Visitor, [Canada/USA Mathcamp](https://mathcamp.org/)**  
+    Taught classes at a residential summer program for high school students
 
 - **(Summer 2021, 2022) Mentor, [Canada/USA Mathcamp](https://mathcamp.org/)**  
     Taught classes at a residential summer program for high school students
