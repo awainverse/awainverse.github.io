@@ -72,6 +72,7 @@ The Gradescope course will require an access code, for which you can email me.
 - [Homework 2](hw2.pdf)
 - [Homework 3](hw3.pdf)
 - [Homework 4](hw4.pdf)
+- [Homework 5](hw5.pdf)
 
 ### Presentations
 
