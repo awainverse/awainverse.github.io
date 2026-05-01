@@ -6,10 +6,10 @@ hidemeta: true
 
 ---
 
-## Current Teaching
+## Upcoming Teaching
 
-This spring, I will teach [Math 5710](penn/s26_5710/) at UPenn.
-The online presence (including course notes and any homeworks) will be on this website.
+This summer, I will teach for one week at Canada/USA Mathcamp.
+In the fall, I will be teaching Math 1410 (Multivariable Calculus) and 5700 (Logic and Computability 1) at Penn.
 
 ---
 
@@ -17,11 +17,12 @@ The online presence (including course notes and any homeworks) will be on this w
 
 ### UPenn
 
-Courses taught as a Hans Rademacher Instructor (postdoc):
+Math courses taught as a Hans Rademacher Instructor (postdoc):
 
 - 1300: Introduction to Calculus
 - 1400: Calculus I
 - 4100: Complex Analysis
+- [5710: Logic and Computability 2](penn/s26_5710/)
 
 ### UCLA
 
