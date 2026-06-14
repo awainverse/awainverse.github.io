@@ -1,12 +1,13 @@
 ---
 title: "From Learnable Objects to Learnable Random Objects" 
-date: 2025-04-01
+date: 2026-06-14
 coauthors:
 - Michael Benedikt
 params:
     arxiv: "2504.00847"
     pdf: "learningrandom.pdf"
-    paper_type: submitted
+    paper_type: publication
+    journal: "Journal of Machine Learning Research"
 ---
 
 ---
