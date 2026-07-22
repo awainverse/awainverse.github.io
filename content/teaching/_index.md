@@ -53,7 +53,7 @@ Here are problems and notes for some of the classes I taught:
 - Incidence Combinatorics [[problems](mathcamp/incidence_combinatorics.pdf)]
 - Model Theory [[notes](mathcamp/model_theory.pdf)]
 - Surreal Numbers [[problems](mathcamp/surreal_numbers.pdf)] [[impartial games](mathcamp/Impartial%20Games.pdf)] [[partizan games](mathcamp/Partizan%20Games.pdf)]
-- Sperner's Lemma and Brouwer's Fixed Point Theorem [[problems](mathcamp/spernerbrouwer.pdf)]
+- Sperner's Lemma and Brouwer's Fixed Point Theorem [[problems](mathcamp/sperner_brouwer.pdf)]
 - Theorem Proving in Lean (cowritten with [Apurva Nakade](https://apurvanakade.github.io/) and [Jalex Stark](https://www.jalexstark.com/))[[link](https://awainverse.github.io/mc2022-Lean/)]
 - VC-Dimension [[notes](mathcamp/vc.pdf)]
 
