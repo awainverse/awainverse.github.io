@@ -8,8 +8,7 @@ hidemeta: true
 
 ## Upcoming Teaching
 
-This summer, I will teach for one week at Canada/USA Mathcamp.
-In the fall, I will be teaching Math 1410 (Multivariable Calculus) and 5700 (Logic and Computability 1) at Penn.
+This fall, I will be teaching Math 1410 (Multivariable Calculus) and 5700 (Logic and Computability 1) at UPenn.
 
 ---
 
