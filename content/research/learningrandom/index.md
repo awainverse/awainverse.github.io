@@ -8,6 +8,7 @@ params:
     pdf: "learningrandom.pdf"
     paper_type: publication
     journal: "Journal of Machine Learning Research"
+    link: "https://www.jmlr.org/papers/v27/25-1196.html"
 ---
 
 ---

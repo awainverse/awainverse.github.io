@@ -4,11 +4,13 @@
 {{- end }}
 <br>
 {{- if .Params.journal }}
-{{- if .Params.doi -}}
-<a href ={{ print "https://doi.org/" .Params.doi }}>{{ .Params.journal }}</a>
-{{- else -}}
-{{ .Params.journal }}
-{{- end }}
+    {{- if .Params.doi -}}
+    <a href ={{ print "https://doi.org/" .Params.doi }}>{{ .Params.journal }}</a>
+    {{- else if .Params.link -}}
+    <a href ={{ .Params.link }}>{{ .Params.journal }}</a>
+    {{- else -}}
+    {{ .Params.journal }}
+    {{- end }}
 ({{ .Page.Date.Year }})
 <br>
 {{- end }}
