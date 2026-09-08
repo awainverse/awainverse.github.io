@@ -9,7 +9,7 @@
     {{- else if .Params.link -}}
     <a href ={{ .Params.link }}>{{ .Params.journal }}</a>
     {{- else -}}
-    {{ .Params.journal }}
+    Accepted, {{ .Params.journal }}
     {{- end }}
 ({{ .Page.Date.Year }})
 <br>
