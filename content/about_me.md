@@ -79,6 +79,10 @@ hidemeta: true
 
     on local organizing committee
 
+- **ASL North American Meeting 2027**
+
+    co-organizing Model Theory session with [Mariana Vicaria](https://sites.google.com/view/m-vicaria/home)
+
 ---
 
 ## Awards and Fellowships
