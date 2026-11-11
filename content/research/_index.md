@@ -5,9 +5,8 @@ description: "Preprints and articles by Aaron Anderson."
 
 ---
 
-I'm interested in model theory as it relates to combinatorics and other fields.
+My research connects mathematical logic, specifically model theory, with combinatorics and computer science.
 
-My research has primarily been about [distal structures]("http://forkinganddividing.com/#_00_16"), including $o$-minimal structures and the $p$-adics.
-I've worked on combinatorial applications of distality, and on studying distal metric structures in continuous logic.
+This work concerns several families of first-order structures, such as stable, NIP, o-minimal, and distal structures. I study the combinatorial properties that characterize these structures in model theory and in their equivalent formulations in (hyper)graph regularity and statistical learning theory.
 
 See my papers below or on the [arXiv]("https://arxiv.org/a/anderson_a_3.html").

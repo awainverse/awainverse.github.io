@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Aaron Anderson
-          subtitle: I am a Hans Rademacher Instructor (postdoc) at UPenn, working with <a href ="https://www.sas.upenn.edu/~htowsner/">Henry Towsner</a>. I'm interested in model theory as it relates to combinatorics and other fields. I did my Ph.D. at UCLA, working with <a href="https://chernikov.umd.edu">Artem Chernikov</a>.
+          subtitle: I am a Hans Rademacher Instructor (postdoc) at UPenn, working with <a href ="https://www.sas.upenn.edu/~htowsner/">Henry Towsner</a>. I'm interested in model theory, combinatorics, and computer science. I did my Ph.D. at UCLA, working with <a href="https://chernikov.umd.edu">Artem Chernikov</a>.
           imageUrl: "portrait.jpeg"
           imageWidth: 160
           imageHeight: 160
