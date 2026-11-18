@@ -92,4 +92,4 @@ hidemeta: true
 - **(1-5/2023) [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/)**
 - **(Summer 2017) Rose Hills Foundation SURF Fellow**
 - **(2014–2016) Putnam Exam**  
-    Highest Score: 39, Rank 172. On Caltech Putnam Team in 2015.
+    Highest Score: 39, Rank 172. On the Caltech Putnam Team in 2015.
